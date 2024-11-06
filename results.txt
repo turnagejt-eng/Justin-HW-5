@@ -1,0 +1,4 @@
+RMSE: 0.851513847988711
+Environment: base
+Radius: 2
+N_bits: 1024
